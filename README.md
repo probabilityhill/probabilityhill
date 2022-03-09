@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probabilityhill&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
-  <img alt="github stats" height="200" src="https://github-readme-stats.vercel.app/api?username=probabilityhill&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+  <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probabilityhill&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
+  <img alt="github stats" height="150" src="https://github-readme-stats.vercel.app/api?username=probabilityhill&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 </p>
-<img alt="trophy" width="940" src="https://github-profile-trophy.vercel.app/?username=probabilityhill&column=7&no-frame=true&theme=dracula" />
+<img alt="trophy" width="700" src="https://github-profile-trophy.vercel.app/?username=probabilityhill&column=7&no-frame=true&theme=dracula" />
