@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 -->
 <p>
   <a href="https://probabilityhill.github.io/okadanao.github.io/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-HP-red?style=flat&amp;logo=homeassistant&amp;logoColor=white">
+    <img alt="home page icon" src="https://img.shields.io/badge/-HP-red?style=flat&amp;logo=homeassistant&amp;logoColor=white">
   </a>  
   <a href="http://qiita.com/probabilityhill" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Qiita-55C500?style=flat&amp;logo=qiita&amp;logoColor=white">
+    <img alt="Qiita icon" src="https://img.shields.io/badge/-Qiita-55C500?style=flat&amp;logo=qiita&amp;logoColor=white">
   </a>
-  <img alt="My Qiita posts" src="https://qiita-badge.apiapi.app/s/probabilityhill/posts.svg" />
-  <img alt="My Qiita contributions" src="https://qiita-badge.apiapi.app/s/probabilityhill/contributions.svg" />
+  <img alt="my Qiita posts" src="https://qiita-badge.apiapi.app/s/probabilityhill/posts.svg" />
+  <img alt="my Qiita contributions" src="https://qiita-badge.apiapi.app/s/probabilityhill/contributions.svg" />
+  <img alt="my GitHub profile views" src="https://komarev.com/ghpvc/?username=probabilityhill&color=yellow" />
 </p>
 
 <p>
