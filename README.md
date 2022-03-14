@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 
 2022/03/13現在
-- 🍂 最近：アップロードできていなかった過去の制作物をGitHubにアップロード, 苦労した作業などあればQiitaに投稿
+- 🍂 最近：GitHubにアップロードできていなかった過去の制作物をアップロード, Qiitaに記事投稿
 - 🍋 取り組み中：TwitterAPIとRNNを用いたツイートの学習と文生成
 - 🥑 興味：自然言語処理（特に文生成）, Webデザイン, Processing, 再帰処理
 - 🧀 よく使う：HTML, Pug, CSS, stylus, Python
