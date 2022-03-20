@@ -17,21 +17,20 @@
 
 <br>
 
-<!-- - 🧬💊🩸🍂🗿🕯️🥑🍋🧀🥩🍚🍣🍰🫖🔰 -->
-2022/03/18現在
-- 🍂 最近の習慣：GitHubにアップロードできていなかった過去の制作物をアップロード, Qiitaに記事投稿  
-- 🍋 取り組み中：TwitterAPIとRNNを用いたツイートの学習と文生成  
-- 🥑 興味のあること：自然言語処理（特に文生成）, Webデザイン, Processing, 再帰処理, NFT, コラージュ
-- 🧀 よく使う：HTML, Pug, CSS, stylus, Python  
-- 🫖 たまに使う：Flask, C#, Java, Processing
-- 🍰 使ったことがある：Prolog, R
-- 🎴 勉強したいこと：コマンド, JavaScript, NFT
+<!-- - 🧬💊🩸🍂🗿🕯️🥑🍋🧀🥩🍚🍣🍰🫖🔰🎴 -->
+2022/03/21現在
+- 取り組み中：ポートフォリオ更新, GitHubにアップロードできていなかった過去の制作物をアップロード, Qiitaに記事投稿  
+- 取り組みたい：TwitterAPIとRNNを用いたツイートの学習と文生成, Processing
+- 興味のあること：自然言語処理（特に文生成）, Webデザイン
+- よく使う：HTML, Pug, CSS, stylus, Python  
+- たまに使う：C#, Processing, Java
+- 使ったことがある：Prolog, R
 <br>
 
-- 🥩 エディタ：Atom, Visual Studio
-- 🍣 コマンドライン：Anaconda Powershell Prompt
-- 🧬 Git関連：Git, GitHub, Bitbucket, Git Bash
-- 🍟 Web関連ツール：Prepros, FFFTP, Google Search Console, Google Analytics, Heroku, PythonAnywhere
-- 🩸 画像編集：Inkscape, ibisPaint
-- 🗿 GPUクラウドサービス：Gradient, Google Colaboratory
+- エディタ：Atom, Visual Studio
+- コマンドライン：Anaconda Powershell Prompt
+- Git関連：Git, GitHub, Bitbucket, Git Bash
+- Web関連ツール：Prepros, FFFTP, Google Search Console, Google Analytics, Heroku, PythonAnywhere
+- 画像編集：Inkscape, ibisPaint
+- GPUクラウドサービス：Gradient, Google Colaboratory
 
