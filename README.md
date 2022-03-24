@@ -23,7 +23,7 @@
 - 取り組みたい：TwitterAPIとRNNを用いたツイートの学習と文生成, Processing
 - 興味のあること：自然言語処理（特に文生成）, Webデザイン
 - よく使う：HTML, Pug, CSS, stylus, Python  
-- たまに使う：C#, Processing, Java
+- たまに使う：C#, Processing(Java), JavaScript
 - 使ったことがある：Prolog, R
 <br>
 
@@ -31,6 +31,6 @@
 - コマンドライン：Anaconda Powershell Prompt
 - Git関連：Git, GitHub, Bitbucket, Git Bash
 - Web関連ツール：Prepros, FFFTP, Google Search Console, Google Analytics, Heroku, PythonAnywhere
-- 画像編集：Inkscape, ibisPaint
+- 画像作成/編集：Inkscape, ibisPaint, PowerPoint
 - GPUクラウドサービス：Gradient, Google Colaboratory
 
