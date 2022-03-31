@@ -18,9 +18,9 @@
 <br>
 
 <!-- - 🧬💊🩸🍂🗿🕯️🥑🍋🧀🥩🍚🍣🍰🫖🔰🎴 -->
-2022/03/28現在
-- 取り組み中：ポートフォリオ更新, GitHubにアップロードできていなかった過去の制作物をアップロード, Qiitaに記事投稿  
-- 取り組みたい：TwitterAPIとRNNを用いたツイートの学習と文生成, Processing
+2022/03/31現在
+- 取り組み中：ポートフォリオ更新, GitHubにアップロードできていなかった過去の制作物をアップロード, Qiitaに記事投稿, LINEbot「みのる計算機」制作
+- 取り組みたい：TwitterAPIとRNNを用いたツイートの学習と文生成, Processing, LINEbot制作
 - 興味のあること：自然言語処理（特に文生成）, Webデザイン
 - よく使う：HTML, Pug, CSS, stylus, Python  
 - たまに使う：C#, Processing(Java), JavaScript
