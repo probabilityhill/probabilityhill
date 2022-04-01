@@ -18,12 +18,12 @@
 <br>
 
 <!-- - 🧬💊🩸🍂🗿🕯️🥑🍋🧀🥩🍚🍣🍰🫖🔰🎴 -->
-2022/03/31現在
-- 取り組み中：ポートフォリオ更新, GitHubにアップロードできていなかった過去の制作物をアップロード, Qiitaに記事投稿, LINEbot「みのる計算機」制作
-- 取り組みたい：TwitterAPIとRNNを用いたツイートの学習と文生成, Processing, LINEbot制作（スタンプ係など）
+2022/04/01現在
+- 取り組み中：ポートフォリオ更新, GitHubにアップロードできていなかった過去の制作物をアップロード, Qiitaに記事投稿, LINE Bot「みのる計算機」「ことばさがし」制作, 「おかだ歯科クリニック」HPのメンテナンス
+- 取り組みたい：TwitterAPIとRNNを用いたツイートの学習と文生成, Processing, LINE Bot「盛り上げ要員」制作
 - 興味のあること：自然言語処理（特に文生成）, Webデザイン
-- よく使う：HTML, Pug, CSS, stylus, Python  
-- たまに使う：C#, Processing(Java), JavaScript
+- よく使う：HTML, Pug, CSS, stylus, Python, JavaScript, Google Apps Script
+- たまに使う：C#, Processing(Java)
 - 使ったことがある：Prolog, R
 <br>
 
