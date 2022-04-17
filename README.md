@@ -7,7 +7,6 @@
   </a>
   <img alt="my Qiita posts" src="https://qiita-badge.apiapi.app/s/probabilityhill/posts.svg" />
   <img alt="my Qiita contributions" src="https://qiita-badge.apiapi.app/s/probabilityhill/contributions.svg" />
-  <img alt="my GitHub profile views" src="https://komarev.com/ghpvc/?username=probabilityhill&color=yellow" />
 </p>
 
 <p>
