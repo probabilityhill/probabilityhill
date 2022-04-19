@@ -17,10 +17,10 @@
 <br>
 
 <!-- - 🧬💊🩸🍂🗿🕯️🥑🍋🧀🥩🍚🍣🍰🫖🔰🎴 -->
-2022/04/17現在
+2022/04/19現在
 - 取り組み中：ポートフォリオ更新, Qiitaに記事投稿, LINE Bot「みのる計算機」制作, LINE Bot「ことばさがし」メンテナンス, 「おかだ歯科クリニック」HP メンテナンス
-- 取り組みたい：TwitterAPIとRNNを用いたツイートの学習と文生成, Processing, LINE Bot制作
-- 興味のあること：自然言語処理（特に文生成）, Webデザイン
+- 取り組みたい：TwitterAPIとGPT2を用いたツイートの学習と文生成, Processing, LINE Bot制作
+- 興味のあること：自然言語処理（特に文生成）, Webデザイン, LIFF
 - よく使う：HTML, Pug, CSS, stylus, Python, JavaScript, Google Apps Script
 - たまに使う：C#, Processing(Java)
 - 使ったことがある：Prolog, R
