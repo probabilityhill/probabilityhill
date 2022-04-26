@@ -16,8 +16,8 @@
 
 <br>
 
-<!-- - 🧬💊🩸🍂🗿🕯️🥑🍋🧀🥩🍚🍣🍰🫖🔰🎴 -->
-2022/04/23現在
+<!-- - 🧬💊🩸🍂🗿🕯️🥑🍋🧀🥩🍚🍣🍰🫖🔰🎴 
+2022/04/27現在
 - 取り組み中：ポートフォリオ更新, Qiitaに記事投稿, LINE Bot「みのる計算機」制作, LINE Bot「ことばさがし」メンテナンス, 「おかだ歯科クリニック」HP メンテナンス, TwitterAPIとGPT2を用いたツイートの学習と文生成
 - 取り組みたい：Processing, LINE Bot制作
 - 興味のあること：自然言語処理（特に文生成）, Webデザイン, LIFF
@@ -26,10 +26,11 @@
 - 使ったことがある：Prolog, R
 <br>
 
-- エディタ：Atom, Visual Studio
-- コマンドライン：Anaconda Powershell Prompt
+- エディタ：Atom
+- ターミナル：Windows Terminal
+- シェル：PowerShell, Git Bash
 - Git関連：Git, GitHub, Bitbucket, Git Bash
 - Web関連ツール：Prepros, FFFTP, Google Search Console, Google Analytics, Heroku, PythonAnywhere
 - 画像作成/編集：Inkscape, ibisPaint, PowerPoint
 - GPUクラウドサービス：Gradient, Google Colaboratory
-
+-->
