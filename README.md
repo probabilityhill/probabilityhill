@@ -34,3 +34,5 @@
 - 画像作成/編集：Inkscape, ibisPaint, PowerPoint
 - GPUクラウドサービス：Gradient, Google Colaboratory
 -->
+
+取り組み中：https://github.com/tomato3223/nazonosono
