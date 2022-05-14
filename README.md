@@ -11,7 +11,6 @@
 
 <p>
   <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probabilityhill&layout=compact&hide_title=true&hide_border=true&langs_count=10&theme=dracula" />
-  <img alt="github stats" height="150" src="https://github-readme-stats.vercel.app/api?username=probabilityhill&count_private=true&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=dracula" />
 </p>
 
 <br>
@@ -35,4 +34,4 @@
 - GPUクラウドサービス：Gradient, Google Colaboratory
 -->
 
-取り組み中：https://github.com/tomato3223/nazonosono
+[tomato3223/nazonosono](https://github.com/tomato3223/nazonosono)
