@@ -34,4 +34,3 @@
 - GPUクラウドサービス：Gradient, Google Colaboratory
 -->
 
-[.](https://github.com/tomato3223/nazonosono)
