@@ -9,13 +9,15 @@
   <img alt="my Qiita contributions" src="https://qiita-badge.apiapi.app/s/probabilityhill/contributions.svg" />
 </p>
 
+<!-- - 
+
 <p>
-  <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probabilityhill&layout=compact&hide_title=true&hide_border=true&langs_count=10&theme=dracula" />
+  <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probabilityhill&layout=compact&hide_title=true&hide_border=true&langs_count=10&theme=dracula&count_private=true" />
 </p>
 
 <br>
 
-<!-- - 🧬💊🩸🍂🗿🕯️🥑🍋🧀🥩🍚🍣🍰🫖🔰🎴 
+🧬💊🩸🍂🗿🕯️🥑🍋🧀🥩🍚🍣🍰🫖🔰🎴 
 2022/07/30現在
 - 取り組み中：ポートフォリオ更新, Qiitaに記事投稿, LINE Bot「みのる計算機」制作, LINE Bot「ことばさがし」メンテナンス, 「おかだ歯科クリニック」HP メンテナンス
 - 一時停止：TwitterAPIとGPT2を用いたツイートの学習と文生成
