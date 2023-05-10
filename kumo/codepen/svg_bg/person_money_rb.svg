@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="48"
+   viewBox="0 96 960 960"
+   width="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="manage_accounts_FILL1_wght400_GRAD0_opsz48.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\nao\Downloads\person_money_rb.png"
+   inkscape:export-xdpi="142.222"
+   inkscape:export-ydpi="142.222">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1066"
+     inkscape:window-height="599"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="28.169492"
+     inkscape:cy="31.728814"
+     inkscape:window-x="754"
+     inkscape:window-y="90"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     style="fill:#000000;stroke-width:1"
+     d="m 465.08475,571 c -44,0 -80,-14 -108,-42 -28,-28 -42,-64 -42,-108 0,-44 14,-80 42,-108 28,-28 64,-42 108,-42 44,0 80,14 108,42 28,28 42,64 42,108 0,44 -14,80 -42,108 -28,28 -64,42 -108,42 z"
+     id="path824"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#000000;stroke-width:1"
+     d="m 145.08475,892 v -94 c 0,-23.33334 5.83333,-44.33334 17.5,-63 11.66666,-18.66666 28.5,-33 50.5,-43 48,-21.33334 92.5,-36.66666 133.5,-46 41,-9.33334 80.5,-14 118.5,-14 h 23 c -14,34 -20.33334,78.83334 -19,134.5 1.33334,55.66666 12.66666,97.5 34,125.5 z"
+     id="path820"
+     inkscape:connector-curvature="0" />
+  <path
+     style="stroke-width:0.43979976"
+     inkscape:connector-curvature="0"
+     d="m 693.08872,927.8644 v -37.82277 q -27.70735,-4.8378 -44.63966,-21.33029 -16.93225,-16.49249 -23.52925,-42.00089 l 34.30437,-13.19398 q 6.59697,22.86958 20.67052,32.32528 14.07374,9.45569 31.66566,9.45569 19.79098,0 31.44574,-9.0159 11.65466,-9.01588 11.65466,-24.40887 0,-17.15219 -12.31446,-27.4875 -12.31437,-10.33529 -45.29935,-20.45069 -30.78603,-9.23579 -46.8387,-27.48748 -16.05267,-18.25169 -16.05267,-44.63968 0,-22.86959 14.51342,-40.68147 14.51341,-17.8119 44.41972,-22.20989 v -37.38299 h 31.2258 v 37.38299 q 20.6706,3.95819 36.2835,15.61289 15.6129,11.65468 23.52927,31.44569 l -33.42475,13.63379 q -6.15728,-13.194 -16.49254,-20.01089 -10.33526,-6.8169 -26.16801,-6.8169 -18.03178,0 -27.70734,7.25669 -9.67564,7.25669 -9.67564,20.45069 0,14.07359 10.55519,23.52929 10.55511,9.4557 47.93818,20.89049 30.78593,10.11539 46.39884,28.36708 15.61289,18.25169 15.61289,46.83868 0,29.02679 -16.9323,47.05858 -16.93231,18.03179 -49.91729,23.30938 v 37.38298 z"
+     id="path2-0" />
+</svg>
